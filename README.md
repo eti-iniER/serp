@@ -6,6 +6,12 @@ We were asked (using any programming language) to implement a multi-threaded pro
 
 We chose to do this using Python, and the following libraries:
 
--   **scrapy:** For web scraping
 -   **threading:** To handle multi-threading
 -   **matplotlib:** For visualisation
+
+For retrieving the search results, we are using Google's Custom Search Engine API. As a result, we're limited to 100 free searches per day, but that should be sufficient for this project
+
+### Getting started
+
+-   Create a virtualenv, and then install the requirements
+-   You'll also need some API keys, as described in the .env.template file. Once you have the keys, create a .env file at the root of the folder and place them there

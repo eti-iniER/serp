@@ -1,0 +1,438 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - python",
+        "totalResults": "1050000000",
+        "searchTerms": "python",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "640920086a69244fd"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - python",
+        "totalResults": "1050000000",
+        "searchTerms": "python",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "640920086a69244fd"
+      }
+    ]
+  },
+  "context": {
+    "title": "SERP Assignment"
+  },
+  "searchInformation": {
+    "searchTime": 0.295411,
+    "formattedSearchTime": "0.30",
+    "totalResults": "1050000000",
+    "formattedTotalResults": "1,050,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Welcome to Python.org",
+      "htmlTitle": "Welcome to \u003cb\u003ePython\u003c/b\u003e.org",
+      "link": "https://www.python.org/",
+      "displayLink": "www.python.org",
+      "snippet": "The official home of the Python Programming Language.",
+      "htmlSnippet": "The official home of the \u003cb\u003ePython\u003c/b\u003e Programming Language.",
+      "formattedUrl": "https://www.python.org/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003epython\u003c/b\u003e.org/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wRuWdLHQDV50Bvs30LBfvbDRoaXHxbiZ1CXFrsMnEPMz94ccOmx8z5xE&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Python.org",
+            "msapplication-tilecolor": "#3673a5",
+            "og:image": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "og:type": "website",
+            "og:site_name": "Python.org",
+            "handheldfriendly": "True",
+            "msapplication-tooltip": "The official home of the Python Programming Language",
+            "apple-mobile-web-app-title": "Python.org",
+            "og:title": "Welcome to Python.org",
+            "msapplication-tileimage": "/static/metro-icon-144x144.png",
+            "msapplication-navbutton-color": "#3673a5",
+            "og:description": "The official home of the Python Programming Language",
+            "og:image:secure_url": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://www.python.org/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.python.org/static/opengraph-icon-200x200.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Tutorial",
+      "htmlTitle": "\u003cb\u003ePython\u003c/b\u003e Tutorial",
+      "link": "https://www.w3schools.com/python/",
+      "displayLink": "www.w3schools.com",
+      "snippet": "Learn Python. Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now.",
+      "htmlSnippet": "Learn \u003cb\u003ePython\u003c/b\u003e. \u003cb\u003ePython\u003c/b\u003e is a popular programming language. \u003cb\u003ePython\u003c/b\u003e can be used on a server to create web applications. Start learning \u003cb\u003ePython\u003c/b\u003e now.",
+      "formattedUrl": "https://www.w3schools.com/python/",
+      "htmlFormattedUrl": "https://www.w3schools.com/\u003cb\u003epython\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK28hevOmBJFWCrR_j9haYslGiDqoHd8JVz9UagOLfERG6u8LzMER5mGo&s",
+            "width": "169",
+            "height": "193"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#00a300",
+            "og:image": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+            "og:image:width": "436",
+            "theme-color": "#ffffff",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:image:height": "228",
+            "og:image:type": "image/png",
+            "title": "W3Schools.com",
+            "og:description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.w3schools.com/signup/lynxlogo.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Download Python | Python.org",
+      "htmlTitle": "Download \u003cb\u003ePython\u003c/b\u003e | \u003cb\u003ePython\u003c/b\u003e.org",
+      "link": "https://www.python.org/downloads/",
+      "displayLink": "www.python.org",
+      "snippet": "Download the latest version of Python · Licenses. All Python releases are Open Source. · Sources. For most Unix systems, you must download and compile the ...",
+      "htmlSnippet": "Download the latest version of \u003cb\u003ePython\u003c/b\u003e &middot; Licenses. All \u003cb\u003ePython\u003c/b\u003e releases are Open Source. &middot; Sources. For most Unix systems, you must download and compile the&nbsp;...",
+      "formattedUrl": "https://www.python.org/downloads/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003epython\u003c/b\u003e.org/downloads/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wRuWdLHQDV50Bvs30LBfvbDRoaXHxbiZ1CXFrsMnEPMz94ccOmx8z5xE&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Python.org",
+            "msapplication-tilecolor": "#3673a5",
+            "og:image": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "og:type": "website",
+            "og:site_name": "Python.org",
+            "handheldfriendly": "True",
+            "msapplication-tooltip": "The official home of the Python Programming Language",
+            "apple-mobile-web-app-title": "Python.org",
+            "og:title": "Download Python",
+            "msapplication-tileimage": "/static/metro-icon-144x144.png",
+            "msapplication-navbutton-color": "#3673a5",
+            "og:description": "The official home of the Python Programming Language",
+            "og:image:secure_url": "https://www.python.org/static/opengraph-icon-200x200.png",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "og:url": "https://www.python.org/downloads/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.python.org/static/opengraph-icon-200x200.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python (programming language) - Wikipedia",
+      "htmlTitle": "\u003cb\u003ePython\u003c/b\u003e (programming language) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Python (programming language) ... Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of ...",
+      "htmlSnippet": "\u003cb\u003ePython\u003c/b\u003e (programming language) ... \u003cb\u003ePython\u003c/b\u003e is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of&nbsp;...",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003ePython\u003c/b\u003e_(programming_language)",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41tZTUdmBeg-oqfR_qqW947l7yGoG87N9XP_RPUK3JiXElGxbFRc7NPl4&s=0",
+            "width": "137",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Python (programming language) - Wikipedia",
+            "og:image:height": "1315",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Python Tutorial — Python 3.13.2 documentation",
+      "htmlTitle": "The \u003cb\u003ePython\u003c/b\u003e Tutorial — \u003cb\u003ePython\u003c/b\u003e 3.13.2 documentation",
+      "link": "https://docs.python.org/3/tutorial/index.html",
+      "displayLink": "docs.python.org",
+      "snippet": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to ...",
+      "htmlSnippet": "\u003cb\u003ePython\u003c/b\u003e is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to&nbsp;...",
+      "formattedUrl": "https://docs.python.org/3/tutorial/index.html",
+      "htmlFormattedUrl": "https://docs.\u003cb\u003epython\u003c/b\u003e.org/3/tutorial/index.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0o3uDlERm3RSZ54TCeoDN14moS7xHs1hbH7QgJM1nFOyOGmJgE0ze3tc&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://docs.python.org/3/_static/og-image.png",
+            "og:type": "website",
+            "og:image:alt": "Python documentation",
+            "og:image:width": "200",
+            "theme-color": "#3776ab",
+            "og:site_name": "Python documentation",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "The Python Tutorial",
+            "og:image:height": "200",
+            "og:url": "https://docs.python.org/3/tutorial/index.html",
+            "og:description": "Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax an...",
+            "readthedocs-addons-api-version": "1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://docs.python.org/3/_static/og-image.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PyPI · The Python Package Index",
+      "htmlTitle": "PyPI · The \u003cb\u003ePython\u003c/b\u003e Package Index",
+      "link": "https://pypi.org/",
+      "displayLink": "pypi.org",
+      "snippet": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
+      "htmlSnippet": "The \u003cb\u003ePython\u003c/b\u003e Package Index (PyPI) is a repository of software for the \u003cb\u003ePython\u003c/b\u003e programming language.",
+      "formattedUrl": "https://pypi.org/",
+      "htmlFormattedUrl": "https://pypi.org/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLe1uZ3ih6P6CvPhmim9lqVC_SNyswl4Qaedm3gE_xMx-vzmBWW_qCBcA&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "availablelanguages": "en, es, fr, ja, pt_BR, uk, el, de, zh_Hans, zh_Hant, ru, he, eo, ko",
+            "og:image": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+            "og:type": "website",
+            "og:site_name": "PyPI",
+            "viewport": "width=device-width, initial-scale=1",
+            "defaultlanguage": "en",
+            "og:url": "https://pypi.org/",
+            "og:description": "The Python Package Index (PyPI) is a repository of software for the Python programming language."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python Docs",
+      "htmlTitle": "\u003cb\u003ePython\u003c/b\u003e Docs",
+      "link": "https://docs.python.org/",
+      "displayLink": "docs.python.org",
+      "snippet": "Navigation ... This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are ...",
+      "htmlSnippet": "Navigation ... This page is licensed under the \u003cb\u003ePython\u003c/b\u003e Software Foundation License Version 2. Examples, recipes, and other code in the documentation are&nbsp;...",
+      "formattedUrl": "https://docs.python.org/",
+      "htmlFormattedUrl": "https://docs.\u003cb\u003epython\u003c/b\u003e.org/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1.0",
+            "readthedocs-addons-api-version": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python",
+      "htmlTitle": "\u003cb\u003ePython\u003c/b\u003e",
+      "link": "https://www.reddit.com/r/Python/",
+      "displayLink": "www.reddit.com",
+      "snippet": "It is intended for Web API developers who use or want to use python 3.12+, FastAPI and SQLAlchemy 2.0+, who need async only sessions and who are looking to ...",
+      "htmlSnippet": "It is intended for Web API developers who use or want to use \u003cb\u003epython\u003c/b\u003e 3.12+, FastAPI and SQLAlchemy 2.0+, who need async only sessions and who are looking to&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/r/Python/",
+      "htmlFormattedUrl": "https://www.reddit.com/r/\u003cb\u003ePython\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFp75cLTWtVHf8qTqN0EiLHXjOtOJkO7HFE8J-qmZPirBrkiLgJsqIH1N&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://styles.redditmedia.com/t5_2qh0y/styles/communityIcon_mkayghu1502d1.png",
+            "theme-color": "#000000",
+            "og:image:width": "256",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "r/Python",
+            "og:site_name": "Reddit",
+            "og:title": "r/Python",
+            "og:image:height": "256",
+            "bingbot": "noarchive",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "The official Python community for Reddit! Stay up to date with the latest news, packages, and meta information relating to the Python programming language. \n---\n\nIf you have questions or are new to Python use r/LearnPython",
+            "twitter:image": "https://styles.redditmedia.com/t5_2qh0y/styles/communityIcon_mkayghu1502d1.png",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/Python/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://styles.redditmedia.com/t5_2qh0y/styles/communityIcon_mkayghu1502d1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Python - Visual Studio Marketplace",
+      "htmlTitle": "\u003cb\u003ePython\u003c/b\u003e - Visual Studio Marketplace",
+      "link": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+      "displayLink": "marketplace.visualstudio.com",
+      "snippet": "A Visual Studio Code extension with rich support for the Python language (for all actively supported Python versions), providing access points for extensions.",
+      "htmlSnippet": "A Visual Studio Code extension with rich support for the \u003cb\u003ePython\u003c/b\u003e language (for all actively supported \u003cb\u003ePython\u003c/b\u003e versions), providing access points for extensions.",
+      "formattedUrl": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+      "htmlFormattedUrl": "https://marketplace.visualstudio.com/items?itemName=ms-\u003cb\u003epython\u003c/b\u003e.\u003cb\u003epython\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK7XIj-arjOKFnX-3nQVqxH6hogblaxyv6t_Cd1y3pDL1bfc6te_UDhw-U&s",
+            "width": "223",
+            "height": "226"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2025.1.2025020701/1738925450100/Microsoft.VisualStudio.Services.Icons.Default",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:site": "@Code",
+            "og:title": "Python - Visual Studio Marketplace",
+            "og:url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+            "og:description": "Extension for Visual Studio Code - Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2025.1.2025020701/1738925450100/Microsoft.VisualStudio.Services.Icons.Default"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PEP 8 – Style Guide for Python Code | peps.python.org",
+      "htmlTitle": "PEP 8 – Style Guide for \u003cb\u003ePython\u003c/b\u003e Code | peps.\u003cb\u003epython\u003c/b\u003e.org",
+      "link": "https://peps.python.org/pep-0008/",
+      "displayLink": "peps.python.org",
+      "snippet": "Feb 1, 2025 ... This document gives coding conventions for the Python code comprising the standard library in the main Python distribution.",
+      "htmlSnippet": "Feb 1, 2025 \u003cb\u003e...\u003c/b\u003e This document gives coding conventions for the \u003cb\u003ePython\u003c/b\u003e code comprising the standard library in the main \u003cb\u003ePython\u003c/b\u003e distribution.",
+      "formattedUrl": "https://peps.python.org/pep-0008/",
+      "htmlFormattedUrl": "https://peps.\u003cb\u003epython\u003c/b\u003e.org/pep-0008/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4pVY0Loz6POrs3Mhx-iLvZYyc_1cNdaprk1FGF8cuxyBLpucVRpXPYVj&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://peps.python.org/_static/og-image.png",
+            "og:type": "website",
+            "og:image:alt": "Python PEPs",
+            "og:image:width": "200",
+            "theme-color": "#3776ab",
+            "og:site_name": "Python Enhancement Proposals (PEPs)",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "PEP 8 – Style Guide for Python Code | peps.python.org",
+            "og:image:height": "200",
+            "color-scheme": "light dark",
+            "og:url": "https://peps.python.org/pep-0008/",
+            "og:description": "This document gives coding conventions for the Python code comprising the standard library in the main Python distribution.  Please see the companion informational PEP describing style guidelines for the C code in the C implementation of Python."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://peps.python.org/_static/og-image.png"
+          }
+        ]
+      }
+    }
+  ]
+}
