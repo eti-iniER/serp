@@ -1,10 +1,11 @@
 import requests
 from dotenv import dotenv_values
+from typing import Optional
 
 env = dotenv_values(".env")
 
 
-def google_search(query: str, results_file=None) -> dict:
+def google_search(query: str, results_file: Optional[str] = None) -> dict:
     response = requests.get(
         "https://www.googleapis.com/customsearch/v1",
         params={
@@ -14,8 +15,8 @@ def google_search(query: str, results_file=None) -> dict:
         },
     )
 
-    if results_file:
-        with open(results_file, "w") as f:
+    if results_file is not None:
+        with open(results_file, "w", encoding="utf-8") as f:
             f.write(response.text)
 
     return response.json()
