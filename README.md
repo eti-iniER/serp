@@ -7,7 +7,7 @@ We were asked (using _any_ programming language) to implement a multi-threaded p
 We chose to do this using Python (as it is the language we are most familiar with), and the following libraries:
 
 -   **requests:** For making and managing HTTP requests
--   **concurrency:** To handle concurrency and multi-threading
+-   **concurrent:** To handle concurrency and multi-threading
 -   **matplotlib:** For data visualisation
 
 For retrieving the search results, we are using Google's Custom Search Engine API. As a result, we're limited to 100 free searches per day, but that should be sufficient for this project
