@@ -1,15 +1,20 @@
-from core import (
-    google_search,
-    parse_search_results,
-    count_features,
-    plot_feature_counts,
-)
+from core.crime_reporting_papers import *
 
-results_file = "sample_results.json"
-raw_results = google_search("crime in nigeria", results_file)
-parsed_results = parse_search_results(raw_results)
 
-features = ["crime", "nigeria", "violence"]
+def main():
+    query = input("\n\nEnter your search query: ")
+    features = input(
+        "Enter the features/keywords you want to count, separated by commas: "
+    ).split(",")
 
-results = count_features(parsed_results, features)
-plot_feature_counts(results)
+    results = google_search(query, "crime_reporting_papers.json")
+    parsed_results = parse_search_results(results)
+
+    feature_counts = count_features(parsed_results, features)
+
+    print("Your data is ready! \n\n")
+    plot_feature_counts(feature_counts)
+
+
+if __name__ == "__main__":
+    main()

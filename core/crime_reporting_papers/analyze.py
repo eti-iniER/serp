@@ -1,8 +1,5 @@
-from core.types import (
-    SearchResult,
-    SingleSearchResultFeatureCount,
-    SearchResultFeatureCounts,
-)
+# analyze.py
+from .types import *
 import concurrent.futures
 
 
